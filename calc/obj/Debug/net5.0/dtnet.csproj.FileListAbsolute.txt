@@ -1,0 +1,16 @@
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.AssemblyInfo.cs
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.exe
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.deps.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.runtimeconfig.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.runtimeconfig.dev.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.dll
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\dtnet.pdb
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.dll
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\refint\dtnet.dll
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.pdb
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\dtnet.genruntimeconfig.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\ref\dtnet.dll

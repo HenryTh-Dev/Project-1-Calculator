@@ -1,0 +1,16 @@
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.exe
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.deps.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.runtimeconfig.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.runtimeconfig.dev.json
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.dll
+C:\Users\henry\source\repos\dtnet\dtnet\bin\Debug\net5.0\calculadora.pdb
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.AssemblyInfo.cs
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.dll
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\refint\calculadora.dll
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.pdb
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\calculadora.genruntimeconfig.cache
+C:\Users\henry\source\repos\dtnet\dtnet\obj\Debug\net5.0\ref\calculadora.dll
